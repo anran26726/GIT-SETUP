@@ -1,6 +1,10 @@
 /**
  * 选择排序 O(N^2)
- * 
+ * 比较相邻的两个数
+ * 0 1
+ * 1 2
+ * 2 3
+ * ...
  */
 public static void selstionSort(int[] arr) {
     if (arr == null || arr.length < 2) {

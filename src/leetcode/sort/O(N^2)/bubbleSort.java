@@ -1,5 +1,6 @@
 /**
  * 冒泡排序
+ * 大数向后排
  */
 public static void bubbleSort(int[] arr) {
     if (arr == null || arr.length < 2) {
